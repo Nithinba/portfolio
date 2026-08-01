@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "Frontend backend check",
+    "message": "This confirms the contact API is accepting submissions.",
+    "createdAt": "2026-08-01T15:15:56.029Z"
+  },
+  {
+    "name": "Test User",
+    "email": "test@example.com",
+    "subject": "Frontend backend check",
+    "message": "This confirms the contact API is accepting submissions.",
+    "createdAt": "2026-08-01T15:18:32.967Z"
+  }
+]
